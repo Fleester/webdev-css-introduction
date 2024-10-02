@@ -1,0 +1,54 @@
+.highlight {
+    color: #00ffd4;
+    background-color: #9000ff;
+}
+
+.container {
+    background-image: linear-gradient(#00ff00, #ff52a8, #572a00);
+    margin: 15px;
+}
+
+.header {
+    margin: 10px;
+    margin-top: 5px;
+}
+
+.content {
+    margin: 10px;
+    color: #ffffff;
+}
+
+#footer {
+    margin: 10px;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+}
+
+a:active {
+    color: #ffd000;
+}
+
+a:hover {
+    color: #ff00b0;
+}
+
+a:visited {
+    color: #0090ff;
+}
+
+.quals{
+    border-collapse: collapse;
+}
+.quals th{
+    border-bottom:3px solid #ccc;
+    padding:5px;
+}
+.quals td{
+    border-bottom:1px solid #ccc;
+    padding:5px;
+}
